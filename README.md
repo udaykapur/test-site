@@ -2,6 +2,8 @@
 
 repo structure
 
+Click [here](https://udaykapur.github.io/test-site/project-1/) for Project 1.
+
 ```bash
 .
 ├── README.md
